@@ -1,0 +1,15 @@
+{
+    "logo": {
+      "src": "https://elfaresservices.com/wp-content/uploads/2024/05/Image-2-1024x565.png",
+      "srcSet": "https://elfaresservices.com/wp-content/uploads/2024/05/Image-2-1024x565.png 1024w, https://elfaresservices.com/wp-content/uploads/2024/05/Image-2-300x166.png 300w, https://elfaresservices.com/wp-content/uploads/2024/05/Image-2-768x424.png 768w, https://elfaresservices.com/wp-content/uploads/2024/05/Image-2.png 1080w",
+      "width": "1024",
+      "height": "565",
+      "className": "header-logo",
+      "sizes": "(max-width: 1024px) 100vw, 1024px"  
+    },
+    "page1": "Main",
+    "page2": "Services",
+    "page3": "Clients",
+    "page4": "Comments",
+    "page5": "Call Us"
+}
